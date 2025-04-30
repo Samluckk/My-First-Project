@@ -1,0 +1,362 @@
+.jobs{
+   text-align: center;
+   margin-top: -30px;
+}
+.hire{
+    margin-left: 50px;
+    font-family: fantasy;
+}
+
+.logo{
+    display: flex;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px 0 20px;
+    border-style: ridge;
+}
+
+.sam{
+    margin-left: 10px;
+    display: flex;
+    color: rgb(103, 103, 103);
+}
+
+.logo{
+    height: 30px;
+    margin-top: 5px;
+}
+
+nav ul{
+    display: flex;
+    gap: 30px;
+}
+
+.home{
+    display: flex;
+    list-style-type: none;
+    gap: 65px;
+}
+
+.alljobs {
+    cursor: pointer;
+    color: rgb(103, 103, 103);
+}
+
+.hoome {
+    cursor: pointer;
+    color: blue;
+}
+
+.dash{
+    cursor: pointer;
+    color: rgb(103, 103, 103);
+}
+}
+
+.log{
+    display: flex;
+    list-style-type: none;
+    gap: 15px;
+}
+.suit{
+    margin: 70px;
+    margin-right: 30px;
+    height: 450px;
+    width: 800px;
+}
+.text{
+    display: flex;
+}
+
+.find{
+    margin-top: 250px;
+    font-size: larger;
+    font-family: initial;
+}
+.sign{
+    background-color: blue;
+    font-size: medium;
+    margin-top: 20px;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.all{
+    display: flex;
+    margin-left: -20px;
+    margin-top: 20px;
+    padding: 20px;
+    gap: 7px;
+}
+
+.create{
+    border: 1px groove rgb(198, 195, 195);
+    width: 350px;
+    height: 230px;
+    background: transparent;
+    box-shadow: black;
+    padding: 10px;
+    margin: 0 0 0 50px;
+    transition: transform 0.5s ease, background o.3s ease;
+}
+
+.create:hover {
+    transform: scale(1.1);
+}
+
+.for{
+    border: 1px solid rgb(198, 195, 195);
+    width: 350px;
+    height: 230px;
+    background: transparent;
+    box-shadow: black;
+    padding: 10px;
+    margin: 0 0 0 50px;
+    transition: transform 0.5s ease, background o.3s ease;
+}
+
+.for:hover {
+    transform: scale(1.1);
+}
+
+.post{
+    border: 1px solid rgb(198, 195, 195);
+    width: 350px;
+    height: 230px;
+    background: transparent;
+    padding: 10px;
+    margin: 0 0 0 50px;
+    transition: transform 0.5s ease, background o.3s ease;
+}
+
+.post:hover {
+    transform: scale(1.1);
+}
+
+.num1{
+    color: blue;
+    font-size: larger;
+    font-family: "Poetsen One", sans-serif;
+    margin-left: 10px;
+}
+
+.man {
+    font-family: "Roboto",sans-serif;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.dri {
+    margin-top: 35px;
+    font-size: 17px;
+    margin-left: 10px;
+    font-family: "Roboto",sans-serif;
+    color: rgb(103, 103, 103);
+}
+
+.num2{
+    color: blue;
+    font-size: larger;
+    font-family: "Poetsen One", sans-serif;
+    margin-left: 10px;
+}
+
+.mas {
+    font-family: "Roboto",sans-serif;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.dry {
+    margin-top: 35px;
+    font-size: 17px;
+    margin-left: 10px;
+    font-family: "Roboto",sans-serif;
+    color: rgb(103, 103, 103);
+}
+
+.num3{
+    color: blue;
+    font-size: larger;
+    font-family: "Poetsen One", sans-serif;
+    margin-left: 10px;
+}
+
+.mah {
+    font-family: "Roboto",sans-serif;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.drp {
+    margin-top: 35px;
+    font-size: 17px;
+    margin-left: 10px;
+    font-family: "Roboto",sans-serif;
+    color: rgb(103, 103, 103);
+}
+
+.arc{
+    margin: 70px;
+    margin-right: 30px;
+    height: 450px;
+    width: 800px;
+}
+
+.log1 {
+    cursor: pointer;
+    background: whitesmoke;
+    border: none;
+}
+
+.log2 {
+    cursor: pointer;
+    background: rgb(115, 115, 241);
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.frod{
+    display: flex;
+    background-color:white;
+}
+
+.name {
+    margin: 80px;
+    margin-top: 30px;
+    font-size: large;
+}
+
+.git{
+    margin-top: 70px;
+    margin-right: 150px;
+    width: 650px;
+    height: 500px;
+}
+
+.test{
+    margin-top: 250px;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 70px;
+}
+
+.eeg {
+    margin-left: 360px;
+    margin-top: 150px;
+    font-size: large;
+}
+
+.book {
+    display: flex;
+    margin-left: -20px;
+    margin-top: 20px;
+    padding: 20px;
+    gap: 2px;
+}
+
+.look {
+    border: 1px groove rgb(198, 195, 195);
+    width: 350px;
+    height: 380px;
+    background: transparent;
+    box-shadow: black;
+    padding: 10px;
+    margin: 0 0 0 50px;
+}
+
+.pook {
+    border: 1px groove rgb(198, 195, 195);
+    width: 350px;
+    height: 380px;
+    background: transparent;
+    box-shadow: black;
+    padding: 10px;
+    margin: 0 0 0 50px;
+}
+
+.mook {
+    border: 1px groove rgb(198, 195, 195);
+    width: 350px;
+    height: 380px;
+    background: transparent;
+    box-shadow: black;
+    padding: 10px;
+    margin: 0 0 0 50px;
+}
+
+.pict {
+    margin-top: 80px;
+    height: 100px;
+    margin-left: 80px;
+}
+
+.pictu {
+    margin-top: 80px;
+    height: 100px;
+    margin-left: 100px;
+}
+
+.pictur {
+    margin-top: 80px;
+    height: 100px;
+    margin-left: 100px;
+}
+
+.rook {
+    margin-left: 46px;
+    color: rgb(103, 103, 103);
+}
+
+.roook {
+    margin-left: 46px;
+    color: rgb(103, 103, 103);
+}
+
+.rooook {
+    margin-left: 46px;
+    color: rgb(103, 103, 103);
+}
+
+.eggroll {
+    margin-left: 466px;
+    margin-top: 50px;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.logg {
+    display: flex;
+    list-style-type: none;
+    gap: 15px;
+    margin-left: 500px;
+    margin-top: 5px;
+    height: 70px;
+}
+
+.logg1 {
+    cursor: pointer;
+    border: none;
+    background: rgb(115, 115, 241);
+    color: white;
+    border-radius: 5px;
+}
+
+.logg2 {
+    cursor: pointer;
+    background: whitesmoke;
+    border: none;
+}
+
+.sam1 {
+    margin-left: 550px;
+    margin-top: 1px;
+    color: rgb(103, 103, 103);
+}

@@ -1,0 +1,53 @@
+html {
+   background-image: url(./scott-graham-5fNmWej4tAA-unsplash.jpg);
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px 0 20px;
+    color: rgb(0, 4, 252);
+}
+
+nav ul{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}
+
+.luck{
+    font-family: "Bungee Spice", sans-serif;
+    font-size: large;
+    font-style: italic;
+}
+
+.lust{
+   color: coral;  
+   font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px;
+
+}
+.lost{
+    color: goldenrod;
+    font-family: monospace;
+    font-size: medium;
+}
+
+.LOST{
+    margin: 50px 0 0 50px;
+}
+
+.loop{
+    margin-left: 50px;
+}
+
+.pc{
+    margin-left: 80px;
+}
+
+.last{
+    
+}
